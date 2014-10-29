@@ -1,4 +1,4 @@
-implicit-affinity-networks
+Implicit Affinity Networks
 ==========================
 
 Code and resources for computing implicit affinity network scores from attribute-based data.
